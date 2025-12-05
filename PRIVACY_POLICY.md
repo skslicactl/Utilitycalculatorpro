@@ -137,9 +137,10 @@ UtilityCalculator Pro ("the App") is committed to protecting your privacy. This 
 ### **Privacy Questions:**
 If you have questions about this Privacy Policy or our privacy practices:
 
-- **Email**: [Your Support Email]
-- **GitHub**: [Repository Link]
-- **In-App**: Use the support section
+- **Email**: skslicactl@yahoo.com
+- **Subject** : UtilityCalculator Pro
+- **GitHub**: https://github.com/skslicactl/Utilitycalculatorpro/edit/main/PRIVACY_POLICY.md
+
 
 ### **Data Requests:**
 Since we don't collect personal data, there's typically nothing to request, but we're happy to clarify our practices.
